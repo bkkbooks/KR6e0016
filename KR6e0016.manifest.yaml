@@ -1,0 +1,65 @@
+canonical_identifier: bkk:krp/KR6e0016/v1
+canonical_location: https://kanripo.org/bkk/KR6e0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 新譯華嚴經七處九會頌釋章
+  identifiers:
+    alt_id:
+    - T36n1738
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T36/T36n1738.xml
+    old_id: T36n1738
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0016_000.yaml, hash: 'sha256:d7ddde1ccef9f3c2028d2b6c49b51de661292094ec940c42f2506603c54e06ba'}
+  - {seq: 1, filename: KR6e0016_001.yaml, hash: 'sha256:25554ff8160175684f499b6ad7e038c6df86a9d6230cdbb48d1233c73c2fe55e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0016_000.markers.yaml, hash: 'sha256:f73e133ffc7ebeeb0b8f9b190600f1d306e3f9f8e3de9ea76175fd17dcea84aa'}
+  - {seq: 1, role: markers, filename: assets/KR6e0016_001.markers.yaml, hash: 'sha256:7446ead57e70e111bdeb8e36242460a6b665cbab4bf5c13c22c66f9b320c78fe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0016_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 華嚴七處九會頌釋章序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13315
+  label: '新譯華嚴經七處九會頌釋章
+
+    一卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0016_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 新譯華嚴經七處九會頌釋章
+  type: mulu
+  level: 1
+hash: sha256:4311ce0e8a8b1dbf5454d7ce88a81ecb69f1c2b6d4a2cac1e71083ba3ec9c3cd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

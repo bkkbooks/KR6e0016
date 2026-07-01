@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6e0016/t/v1/juan/0
+seq: 0
+front:
+  text: 華嚴七處九會頌釋章序昔者圭峯禪師有華嚴綸貫之作其書亡逸而不傳復菴綸貫本為禪者作故雖痛快直捷而不便於學教之士甞欲倣法華綸貫別作一書愧無旭師之筆而止客冬於華頂入信精舍得七處九會頌釋乃清涼觀大師之所著也其書僅一萬三千餘言較之疏鈔不及百之一而全經要義揭示殆盡且其文平易明白雖初學可解實為入華嚴教海之津梁矣此固非復菴之所能辦假使旭師見之未必不歎其不可及也於是再四校訂亟付之梓以廣其傳大抵喜簡厭繁人之恒情也則斯書流通宜先疏鈔而待今乃行嗚呼物之顯晦信有時哉原本寶永甲申昇堂所寫其人好古甞校梵網石壁疏等行之世云文化二年乙丑五月望沙門典壽謹撰
+  hash: sha256:716bd8896e19eabe548d1c8048dbae647466a4e4b706141ce246fae61abc4ef1
+  markers:
+  - {type: 序, offset: 0, content: 華嚴七處九會頌釋章序, id: KR6e0016_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新譯華嚴經七處九會頌釋章
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T36/T36n1738.xml
+    old_id: T36n1738
+hash: sha256:b753af0f18a94be020f38d339c65d33c83255599e5dbe1328ad0d5cbac46d924
