@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0016/v1
 canonical_location: https://kanripo.org/bkk/KR6e0016/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 新譯華嚴經七處九會頌釋章
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0016_000.yaml, hash: 'sha256:b753af0f18a94be020f38d339c65d33c83255599e5dbe1328ad0d5cbac46d924'}
-  - {seq: 1, filename: KR6e0016_001.yaml, hash: 'sha256:d1a558100273dcf29cd6aa429d2c81b397b212f5171cd6c6c5f779546cc95a4c'}
+  - {seq: 0, filename: KR6e0016_000.yaml, hash: 'sha256:d7ddde1ccef9f3c2028d2b6c49b51de661292094ec940c42f2506603c54e06ba'}
+  - {seq: 1, filename: KR6e0016_001.yaml, hash: 'sha256:d4e71f81397d27995ac0565f2f5c6df231576f188470ef3cc03097b205afaa6e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0016_000.markers.yaml, hash: 'sha256:f17aaf8f8cdf6b2ec2ad59abaef9a6e9f72dea2f2c4b2eead7184beb7101fc10'}
-  - {seq: 1, role: markers, filename: assets/KR6e0016_001.markers.yaml, hash: 'sha256:039756af5dc9d9c8d473f6f736b08b059cd17ae06bf7d6544475375dea16ad6a'}
+  - {seq: 0, role: markers, filename: assets/KR6e0016_000.markers.yaml, hash: 'sha256:56049f124f9040f5cddbe69a0d6eabf39faefba88df71fb81129679746895950'}
+  - {seq: 1, role: markers, filename: assets/KR6e0016_001.markers.yaml, hash: 'sha256:80d519d257c6f2f3b55dc85ece67c2ddc80374ac786fc343a53fd987aa257290'}
 table_of_contents:
 - ref:
     seq: 0
@@ -59,4 +59,7 @@ table_of_contents:
   label: 新譯華嚴經七處九會頌釋章
   type: mulu
   level: 1
-hash: sha256:7fecc6ccd52a0af8da56739d99a2e1b00648a95aaf4938d775067bb04623f2c3
+hash: sha256:20ea1989c2ada8af0c13f10154e6a544b28eab34f536e737c92cbce62c52b239
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
