@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0016_000-T.yaml, hash: 'sha256:b753af0f18a94be020f38d339c65d33c83255599e5dbe1328ad0d5cbac46d924'}
+  - {seq: 0, filename: KR6e0016_000-T.yaml, hash: 'sha256:232f39272921cb3f580a894d95e195bb564eff1ae35e029542ab76f4ac5ae084'}
   - {seq: 1, filename: KR6e0016_001-T.yaml, hash: 'sha256:d1a558100273dcf29cd6aa429d2c81b397b212f5171cd6c6c5f779546cc95a4c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0016_000-T.markers.yaml, hash: 'sha256:511316e23379635a2f57045140bbc4f3977f2e6c480537fd4c2d9adb5df3fc20'}
+  - {seq: 0, role: markers, filename: assets/KR6e0016_000-T.markers.yaml, hash: 'sha256:1ec40e769d2b40fd8e3926b5b3e3c9c6e96d28b52ebbbe4f58921e8a41291b59'}
   - {seq: 1, role: markers, filename: assets/KR6e0016_001-T.markers.yaml, hash: 'sha256:33c7385172dc36fba1420e2d5f645eac533fe8eba49e0a322366eb1cb4f66338'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0016_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴七處九會頌釋章序
@@ -57,4 +57,4 @@ table_of_contents:
   label: 新譯華嚴經七處九會頌釋章
   type: mulu
   level: 1
-hash: sha256:57bdf48f71050880b393101f65fd2d7149cf93ed91fec774cf911ff2db9455fc
+hash: sha256:39ef502022a0e0542e716285be4a6a6168c93ed928125ddf9db943bf76a22c17
